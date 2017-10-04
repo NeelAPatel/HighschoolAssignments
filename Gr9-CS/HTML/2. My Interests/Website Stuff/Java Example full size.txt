@@ -1,0 +1,6 @@
+<html>
+	<head>
+		<title> Java example - full size</title>
+	</head>
+	
+<img src=Pascal.png>

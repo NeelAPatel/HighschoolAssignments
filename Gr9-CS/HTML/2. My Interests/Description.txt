@@ -1,0 +1,4 @@
+Assignment:
+
+Create a basic website displaying your interests.
+Must use footnotes. 
